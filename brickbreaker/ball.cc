@@ -1,5 +1,4 @@
 // Default constructor
-//tolga bozok
 Ball::Ball()
 {
     shape.center.x = 0;
@@ -98,3 +97,4 @@ void Ball::set_dx(double dx)
 void Ball::set_dy(double dy)
 {
     speed.y = dy
+//    tolga bozok
