@@ -98,3 +98,4 @@ void Ball::set_dy(double dy)
 {
     speed.y = dy
 //    tolga bozok
+//isilla olmadi 
