@@ -1,4 +1,5 @@
 // Default constructor
+//tolga bozok
 Ball::Ball()
 {
     shape.center.x = 0;
